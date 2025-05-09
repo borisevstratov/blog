@@ -1,4 +1,3 @@
 ---
-title: Just a dump of (some) ideas 
+layout: home
 ---
-

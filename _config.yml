@@ -9,6 +9,8 @@ remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto"
+  show_description: true
+  back_home_text: "←"
 
 sass:
   style: compressed
